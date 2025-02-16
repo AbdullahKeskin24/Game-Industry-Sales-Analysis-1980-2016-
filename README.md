@@ -39,7 +39,7 @@ These companies have established a strong market presence by consistently releas
 
 ---
 
-## 2. Total Sales Analysis
+## 2. Top 25 Total Sales Analysis
 ![Image](https://github.com/user-attachments/assets/07384374-3bc3-4d09-8777-4f564e7b4641)
 
 ### Overview
